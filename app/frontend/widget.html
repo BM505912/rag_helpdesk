@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Widget Chat RAG</title>
+
+<style>
+
+    
+    html, body {
+    height: 100%;
+    margin: 0;
+    }
+
+
+    body {
+    background-image: url("help_desk.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+
+  /* Botón flotante */
+  #chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0078ff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 28px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    z-index: 1000;
+  }
+
+  /* Ventana de chat */
+  #chat-window {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+    width: 360px;
+    height: 480px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    display: none;
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+  }
+
+  #chat-header {
+    background: #0078ff;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+  }
+
+  #sessionInput {
+    width: 130px;
+    font-size: 10px;
+  }
+
+  #chat-messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    font-size: 13px;
+    background: #f4f6f8;
+  }
+
+  .msg {
+    margin-bottom: 6px;
+    white-space: pre-wrap;
+  }
+
+  .user {
+    text-align: right;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .bot {
+    text-align: left;
+    color: #0b5ed7;
+  }
+
+  #chat-input {
+    display: flex;
+    gap: 4px;
+    border-top: 1px solid #ccc;
+    padding: 5px;
+  }
+
+  #chat-input input[type="file"] {
+    width: 60px;
+    font-size: 10px;
+  }
+
+  #chat-input input[type="text"] {
+    flex: 1;
+    padding: 6px;
+  }
+
+  #chat-input button {
+    background: #0078ff;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+  }
+
+  #reset-btn {
+    background: #ff595e;
+    border: none;
+    color: white;
+    font-size: 11px;
+    padding: 3px 6px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 5px;
+  }
+
+</style>
+</head>
+
+<body>
+
+<!-- Botón flotante -->
+<button id="chat-button">💬</button>
+
+<!-- Ventana de chat -->
+<div id="chat-window">
+  <div id="chat-header">
+    <span>RAG Helpdesk</span>
+    <div>
+      <input id="sessionInput" />
+      <button id="reset-btn">Reset</button>
+      <span id="close-chat" style="cursor:pointer;">✖</span>
+    </div>
+  </div>
+
+  <div id="chat-messages"></div>
+
+  <div id="chat-input">
+    <input type="file" id="imageInput" accept="image/*" />
+    <input type="text" id="messageInput" placeholder="Escribe un mensaje..." />
+    <button id="sendBtn">Enviar</button>
+  </div>
+</div>
+
+<script>
+  const API_BASE = "http://localhost:8000";
+
+  const chatButton = document.getElementById("chat-button");
+  const chatWindow = document.getElementById("chat-window");
+  const closeChat = document.getElementById("close-chat");
+  const sendBtn = document.getElementById("sendBtn");
+  const resetBtn = document.getElementById("reset-btn");
+  const messageInput = document.getElementById("messageInput");
+  const imageInput = document.getElementById("imageInput");
+  const chatMessages = document.getElementById("chat-messages");
+  const sessionInput = document.getElementById("sessionInput");
+
+  // session inicial
+  sessionInput.value = crypto.randomUUID();
+
+  function addMessage(text, sender) {
+    const div = document.createElement("div");
+    div.className = `msg ${sender}`;
+    div.textContent = sender === "user"
+      ? "Tú: " + text
+      : "Bot: " + text;
+
+    chatMessages.appendChild(div);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+    return div;
+  }
+
+  // Abrir / cerrar chat
+  chatButton.onclick = () => {
+    chatWindow.style.display = "flex";
+    chatButton.style.display = "none";
+  };
+
+  closeChat.onclick = () => {
+    chatWindow.style.display = "none";
+    chatButton.style.display = "block";
+  };
+
+  sendBtn.onclick = sendMessage;
+  messageInput.addEventListener("keypress", e => {
+    if (e.key === "Enter") sendMessage();
+  });
+
+  async function sendMessage() {
+    const text = messageInput.value.trim();
+    const imageFile = imageInput.files[0];
+
+    if (!text && !imageFile) return;
+
+    addMessage(text || "[Imagen enviada]", "user");
+    const botDiv = addMessage("", "bot");
+
+    const formData = new FormData();
+    formData.append("session_id", sessionInput.value);
+    formData.append("message", text || "");
+
+    if (imageFile) {
+      formData.append("image", imageFile);
+    }
+
+    messageInput.value = "";
+    imageInput.value = "";
+
+    const response = await fetch(`${API_BASE}/chat`, {
+      method: "POST",
+      body: formData
+    });
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder("utf-8");
+
+    while (true) {
+      const { value, done } = await reader.read();
+      if (done) break;
+
+      botDiv.textContent += decoder.decode(value, { stream: true });
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+  }
+
+  resetBtn.onclick = async () => {
+    await fetch(`${API_BASE}/reset`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ session_id: sessionInput.value })
+    });
+
+    chatMessages.innerHTML = "";
+    addMessage("✅ Memoria reiniciada", "bot");
+  };
+</script>
+
+</body>
+</html>

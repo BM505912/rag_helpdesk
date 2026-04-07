@@ -1,0 +1,406 @@
+Pregunta,Respuesta,Área,Tipo Solución,Estado_QA
+Actividad Pro impide el registro exitoso del cliente.,indícanos en qué paso ocurre y qué mensaje de error se muestra en pantalla para poder orientarte con acciones específicas,Soporte,POSIBLE INTERMITENCIA,asesor
+"Al usuario no le permite el acceso a Actividad Pro, a pesar de que funcionaba correctamente por la mañana.",Es necesario compartir un ticket a la OAU a traves del portal promesa ya que ellos son los unicos autorizados de brindar las altas solicitadas,Soporte,TICKET OAU,solucion
+Cómo se solicita el acceso para actividad pro?,envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación,Soporte,BORRAR CACHÉ,solucion
+Dar de alta en Actividad PRO a tres usuarios que se certificaron.,"Se requiere enviar un ticket a la OAU solicitando el alta, ya que ellos son los encargados de brindar el acceso.",RRHH,TICKET OAU,solucion
+Dos asesoras no pueden ver el apartado 'Consultar' en la aplicación Consultapp de PowerApps.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Dos de mis APs reportan un error al entrar a credencial digital después de haber borrado caché.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+"El asesor 124672 no puede acceder a la aplicación Actividad Pro, pero sí a otras aplicaciones.",Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,ESCALAR EQUIPO AFORE (ENLACE ASESORÍA),solucion
+El asesor 161032 no puede acceder a Actividad Pro y le aparece un error.,El acceso al aplicativo es validado por la OAU. Se solicita la leyenda que se muestra para dar recomendaciones.,Soporte,TICKET OAU,solucion
+El asesor premium no tiene acceso a Power Apps ni a Actividad Pro.,Se indica que los problemas de acceso son validados directamente con la OAU y que el caso ya fue compartido con ellos para que realicen la acción.,Soporte,TICKET OAU,solucion
+El asesor reporta que sigue sin accesos para ingresar al sistema.,"Si no puedes ingresar a Actividad Pro, compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket",Soporte,TICKET OAU,solucion
+"El asesor tiene acceso validado, pero no le aparece ninguna aplicación en el sistema para realizar su plan de gestión.","Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+"El cliente ya fue traspasado, pero al ingresarlo en Actividad Pro, no lo permite.","Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El ejecutivo no tiene accesos a Actividad Pro 165060.,recordemos que todo tema de acceso es atendido por pa OAU a traves de un ticket,Soporte,TICKET OAU,solucion
+"El portal de Profuturo no responde, requiriendo un proceso de desbloqueo.","El acceso a ambas herramientas es por medio de la OAU, levantando un ticket desde Promesa.",Soporte,TICKET OAU,solucion
+El usuario debe confirmar si ya tiene acceso al sistema después de una corrección.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario desea saber cómo solicitar acceso a una herramienta.,Se realiza por medio del portal promesa con un ticket a la OAU,Soporte,TICKET OAU,solucion
+El usuario estaba experimentando un problema de acceso o visualización incorrecta en el sistema.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,TICKET OAU,solucion
+El usuario experimentaba un bloqueo en un proceso que se resolvió al encontrar una CURP válida o corregida que permitió la continuación.,"se comparte liga de desbloqueo de manera manual, si el problema persiste debe compartirse uin ticket a la OAU",Soporte,TICKET OAU,solucion
+El usuario experimentaba un problema de acceso o carga del sistema que impedía su operación normal.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+"El usuario necesita asistencia con un 'accesor' (acceso), pero no ha especificado en qué aplicativo lo requiere.","Si no puedes ingresar a Actividad Pro, compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket",Soporte,TICKET OAU,solucion
+El usuario necesita ayuda para dar acceso a la actividad Pro al asesor.,Se informa que la OAU tiene un tiempo de respuesta de hasta 48 horas hábiles y se proporciona una liga para desbloquear la cuenta y un comunicado con acciones recomendadas.,Soporte,TICKET OAU,solucion
+El usuario necesita que se valide su acceso al sistema tras una acción previa de soporte.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario necesita que su asesor tenga acceso a Actividad Pro.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,TICKET OAU,solucion
+El usuario necesita saber cómo obtener acceso a la actividad Pro.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El usuario necesita saber qué servicio seleccionar para la aplicación de Actividad PRO.,"Para solicitar el alta a Actividad PRO, el servicio a seleccionar desde Promesa es Alta cuenta de usuario ---> Actividad Comercial.",Soporte,TICKET OAU,solucion
+El usuario necesita validar si el problema de acceso ha sido resuelto.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El usuario necesita validar si ya tiene acceso al sistema después de una configuración o resolución previa.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no ha sido dado de alta en el sistema y desea saber cuándo será procesado.,se debe compartir un ticket con la OAU para su validación,Soporte,TICKET OAU,solucion
+El usuario no logra acceder al sistema a pesar de que el acceso ha sido confirmado por el área de soporte.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no podía acceder a Actividad Pro.,Recordemos que todo tema de acceso es atendido unicamente por la OAU a traves de un ticket por la plataforma de promesa,Soporte,TICKET OAU,solucion
+El usuario no podía acceder a Actividad Pro.,se debe compartir ticket a la OAU,Soporte,TICKET OAU,solucion
+El usuario no podía acceder al sistema.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no podía acceder al sistema.,compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no podía ingresar al sistema o acceder a la plataforma.,te comento que todo tema de acceso es realizado por la OAU a través de un ticket compartido por el canal de promesa.,Soporte,TICKET OAU,solucion
+El usuario no podía visualizar o acceder a sus aplicaciones después de una posible activación o actualización.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no puede acceder a Actividad Pro al ingresar la CURP.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El usuario no puede acceder a Actividad Pro para generar EDR.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no puede acceder a la aplicación Actividad Pro.,"Si no puedes ingresar a Actividad Pro, compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket",Soporte,TICKET OAU,solucion
+El usuario no puede acceder a la app 'Actividad Pro' a pesar de que la contraseña es correcta.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,CONTRASEÑA,solucion
+El usuario no puede acceder a su cuenta.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+"El usuario no puede acceder al sistema, aunque su acceso fue habilitado la semana anterior.","Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El usuario no puede ingresar a Actividad Pro.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,POSIBLE INTERMITENCIA,solucion
+El usuario no puede ingresar a Actividad Pro.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no puede ingresar a generar su TD ni Actividad Pro utilizando la credencial AG030572.,"Para solicitar el acceso a Actividad Pro, es necesario compartir un ticket por medio del canal promesa a la OAU. Adicionalmente, para apoyar con el alta de la Tarjeta Digital (TD), compártenos los datos requeridos del usuario (nombre completo, n° empleado, correo y CC) para su validación y gestión correspondiente.",Soporte,BORRAR CACHÉ,solucion
+El usuario no puede ingresar al sistema debido a un error.,"Si el usuario nunca tuvo acceso, solicita el alta mediante ticket con OAU.
+Si ya contaba con acceso y presenta un error, comparte el mensaje de error para que podamos sugerirte acciones antes de levantar un ticket.",Soporte,POSIBLE INTERMITENCIA,solucion
+El usuario no puede ver las aplicaciones disponibles después de haber obtenido acceso.,"Se verifica que el usuario ya tiene acceso a las herramientas y se recomienda borrar caché, actualizar la sección de todas las aplicaciones. En caso de que persista el problema, se proporciona el link de acceso directo a la herramienta de PowerApps.",Soporte,BORRAR CACHÉ,solucion
+El usuario no puede visualizar o acceder correctamente a las aplicaciones a pesar de tener el acceso otorgado.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no tiene acceso a la herramienta 'Power Ap'.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+El usuario no tiene acceso a la vista de gerente en Actividad Pro y visualiza la vista de asesor.,No aplica,Soporte,ALTA,asesor
+El usuario no tiene acceso a una aplicación.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario no visualiza las dos opciones (ingresar trámites y como Gerente) al acceder a Actividad Pro.,Favor de compartir su fecha de alta y CUSP,Soporte,ASESOR,asesor
+El usuario presenta problemas de acceso y errores en la plataforma Actividad Pro.,"Verificar si la nueva contraseña cumple con la estructura especificada en el comunicado; de no ser así, actualizarla. Si persiste el problema, escalar a la OAU.",Soporte,CONTRASEÑA,solucion
+El usuario presenta un problema al intentar ingresar a la aplicación muestra usuario y contraseña erronea.,"El usuario debe actualizar su contraseña desde el portal OKTA, asegurándose de cumplir con la estructura requerida: 2 Mayúsculas, 2 Minúsculas, 2 números, 2 caracteres especiales (¡ @ # $ % & * ( ) + - = / \ ¿), y un largo entre 11 y 16 caracteres. Después del cambio, debe esperar 20 minutos antes de volver a intentar acceder. Si el problema persiste, debe levantar un ticket en el portal PROMESA con ayuda de su gerente.",Soporte,CONTRASEÑA,solucion
+El usuario presentó un problema de acceso a la plataforma o sistema.,recordemos que todo tema de acceso es atendido por pa OAU a traves de un ticket,Soporte,TICKET OAU,solucion
+"El usuario reporta falta de acceso a una herramienta o aplicación interna, a pesar de tener permisos activos.",Recordemos que todo tema de acceso es atendido unicamente por la OAU a traves de un ticket por la plataforma de promesa,Soporte,TICKET OAU,solucion
+El usuario reporta que la aplicación Power Apps (Tarjeta Digital) no aparece o no es accesible para sus asesores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+El usuario solicita acceso a actividad PRO y traspasos PRO.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+"El usuario solicita acceso a aplicativos, pero el acceso ya ha sido otorgado.",Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario solicita acceso a la aplicación Actividad Pro e indica que su asesor recien certificado aún no le permite el ingreso.,recordemos que todo tema de acceso es atendido por la OAU a traves de un ticket,Estadística,TICKET OAU,solucion
+El usuario solicita acceso a la herramienta ConsultAPP y el asesor verifica que ya tienen la herramienta compartida.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+El usuario solicita acceso para la confirmación de trámites Ap 114127 CC 43072450 en la aplicación ConsultAPP.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+El usuario solicita al asesor confirmar si su acceso al sistema ya ha sido restablecido o concedido.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,TICKET OAU,solucion
+El usuario solicita apoyo con el acceso a la aplicación 'consultapp'.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+El usuario solicita ayuda con otro mensaje etiquetado después de confirmar que ya tiene acceso.,compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,ASESOR,solucion
+El usuario solicita confirmar si ya tiene acceso al sistema después de un incidente previo o una solicitud de alta.,recordemos que la OAU atiende todo caso de acceso y puede demorar maximo 48hrs habiles en atenderlos.,Soporte,ALTA,solucion
+El usuario solicita la validación de su acceso.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando.",Soporte,ALTA,solucion
+El usuario solicita soporte para un problema relacionado con accesos.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+El usuario solicita validación para confirmar que su acceso al sistema de enlace pro se realizara.,Se solicita al usuario que reporte el incidente directamente a través de la plataforma Enlace Asesoría.,Soporte,ESCALAR EQUIPO AFORE (ENLACE ASESORÍA),solucion
+El usuario solicita validación para confirmar que su acceso al sistema ha sido restablecido.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El usuario solicitó habilitar las aplicaciones necesarias para un nuevo empleado que fue dado de alta.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+El usuario tiene problemas de acceso a la aplicación de asesores.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+La Asesora no puede acceder a Actividad PRO.,"Validar que el usuario esté entrando con su cuenta institucional correcta y, si persiste, levantar un ticket en promesa. Adicionalmente, se solicitan indicaciones para resolver el problema de acceso.",Soporte,TICKET OAU,solucion
+"La aplicación no permite el acceso a los usuarios, a pesar de haber intentado desde múltiples dispositivos, redes y ubicaciones.",Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,POSIBLE INTERMITENCIA,solucion
+La asesora está bloqueada en la aplicación Actividad Pro y no puede acceder.,"Se le indica a la usuaria que levante un ticket a la OAU informando el cambio de puesto y solicitando el acceso correcto, ya que los gerentes ingresan con usuario CUSP. Una vez realizado el ajuste por la OAU, debería contar con la vista de gerente en Actividad Pro.",Soporte,TICKET OAU,solucion
+La asesora no puede acceder a la aplicación ConsultAPP a pesar de borrar caché y seleccionar 'Todas las aplicaciones'.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+La cerradora de la usuaria no podía entrar a Actividad Pro.,te comento que todo tema de acceso es realizado por la OAU a través de un ticket compartido por el canal de promesa.,Soporte,TICKET OAU,solucion
+"La ejecutiva no puede acceder a Actividad Pro y Power Apps, reportando que después de un incidente previo, perdió el acceso a EPR PRO.","Para temas de Actividad PRO, favor de compartir un ticket con la OAU. 
+Para Power apps, necesitamos la siguiente información del asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica) 
+Para temas con EPR PRO favor de comunicarse con el equipo correspondiente a través de los canales compartidos",Soporte,TICKET OAU,asesor
+La usuaria desea dar de alta su credencial digital en Power Apps y el enlace Pro no muestra información.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)
+
+Para temas de Enlace pro, favor de compartir detalle en el canal de Enlace Asesoria.",Soporte,ALTA,asesor
+La usuaria no podía acceder a la app de acompañamiento de noveles en Power Apps.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+"La usuaria no puede acceder a Actividad Pro, a pesar de tener acceso a otras aplicaciones.","Si no puedes ingresar a Actividad Pro, compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket",Soporte,TICKET OAU,solucion
+La usuaria no puede acceder a su plantilla en la aplicación de Power Apps y le arroja un mensaje de error indicando que es asesora y ve la tarjeta digital.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+La usuaria reporta que algunos asesores no tienen la herramienta de consulta en Power Apps.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+La usuaria se conecta al sistema pero no puede acceder a la plataforma.,compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+Las asesoras necesitan acceso a la aplicación NRP en Power Apps para consultar si un NRP está en un proyecto empresarial.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Los asesores que se hicieron previsionales no pueden generar su credencial Consar desde Actividad Pro.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Los usuarios no pueden ingresar a la funcionalidad de Actividad Pro después de verificar la versión y probar en diferentes equipos.,No aplica,Soporte,ASESOR,asesor
+Los usuarios no tienen acceso a las aplicaciones y estas no cargan.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando.",Soporte,ALTA,solucion
+No se puede acceder a la plataforma de Actividad Pro.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+Problema previo de acceso al sistema o plataforma.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+Se necesita apoyo para el acceso a Consulta App de varios asesores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se necesita dar de alta a un asesor que no tiene las aplicaciones de Power Apps para validar NRP.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Nómina,ASESOR,asesor
+Se necesita dar de alta un usuario en la aplicación de consulta con el ID 162044.,"Se requiere enviar un ticket a la OAU solicitando el alta, ya que ellos son los encargados de brindar el acceso.",Soporte,TICKET OAU,solucion
+Se necesita otorgar acceso a PowerApps y aplicaciones como Invierto PRO y Consulta App a varios asesores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se necesita soporte para otorgar accesos en Power Apps para tarjetas digitales.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Nómina,ASESOR,asesor
+Se necesita validar la fecha de alta de los asesores  y posteriormente confirmar su acceso a la plataforma.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Se necesita validar que el usuario tenga acceso a las apps de power apps,Es necesario borrar caché del navegador e ingresar nuevamente al sistema.,Soporte Técnico,BORRAR CACHÉ,solucion
+Se necesita validar si el usuario  ya tiene acceso a la herramienta de ConsultAPP.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+"Se requiere acceso a la tarjeta digital y a Invierte Pro, ya que ambas opciones aparecen deshabilitadas (en gris) y se ha intentado borrar caché y cerrar sesión sin éxito.","Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se requiere activar aplicaciones de actividad PRO para asesores recién ingresados esta semana.,"Se requiere enviar un ticket a la OAU solicitando el alta, ya que ellos son los encargados de brindar el acceso.",Soporte,TICKET OAU,solucion
+Se requiere dar de alta al asesor en consultapp.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Nómina,ASESOR,asesor
+Se requiere validar la fecha de alta de los asesores y confirmar que ya tengan acceso a alguna plataforma o sistema.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Se requiere validar si el acceso de un usuario (tercero no nombrado) ha sido restaurado exitosamente.,"Valida nuevamente tu acceso al sistema e intenta ingresar después de actualizar la sesión. Si el problema persiste, será necesario levantar un ticket con el área correspondiente.",Soporte,ALTA,solucion
+Se solicita acceso para que varias personas puedan generar su nueva tarjeta digital.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita apoyo para el acceso a Actividad Pro.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+Se solicita dar acceso a Power Apps a varios asesores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita dar acceso a asesores identificados con números específicos y consulta sobre aplicación.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando.",Soporte,ALTA,solucion
+Se solicita dar acceso a la aplicación ConsultApp al Usuario.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita dar acceso a la consultApp a la asesora,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita dar acceso al Plan de Gestión y Tarjeta digital a una Asesora específica.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,TICKET OAU,asesor
+Se solicita el acceso a la herramienta Actividad Pro para dos asesores específicos.,"El acceso a Actividad Pro se gestiona mediante ticket con OAU (Oficina de Atención a Usuarios), quienes son responsables de otorgarlo.",Soporte,TICKET OAU,solucion
+Se solicita la alta de un asesor ya  que no cuenta con el acceso requerido al sistema.,El usuario debe levantar un ticket en Promesa a la OAU,Soporte,TICKET OAU,solucion
+Se solicita que la aplicación de Power Apps 'Consulta App' sea visible para varios asesores que no la tienen disponible.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita soporte para el acceso a Consultapp del asesor con ID 113061.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita validar el acceso de un usuario al sistema.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+"Se solicita validar el acceso o configuración de las aplicaciones de Power Apps y el plan de gestión para un usuario, posiblemente un analista de calidad.","Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Se solicita validar si un usuario ya tiene acceso a un sistema o plataforma.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Solicita apoyo para el alta de niveles en Power Apps.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Solicitud de acceso a ConsultApp para varios asesores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Solicitud de acceso a Espacio Pro y Tarjetas Digitales para colaboradores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ALTA,asesor
+Solicitud de acceso a la aplicación de consulta para varios asesores identificados por números.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Solicitud de alta de 2 usuarios al acompañamiento de niveles.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,TICKET OAU,asesor
+Solicitud para la obtención de accesos a los aplicativos Actividad y Traspasos Pro para asesores recién certificados.,Es necesario compartir un ticket a la OAU a traves del portal promesa ya que ellos son los unicos autorizados de brindar las altas solicitadas,Soporte,TICKET OAU,solucion
+Solicitud para que las asesoras tengan acceso a la aplicación NRP en Power Apps para la consulta de patronales.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+"Un asesor cambió su contraseña recientemente y, aunque Traspasos Pro funciona, Actividad Pro sigue bloqueado después del desbloqueo.","Validar que el usuario esté entrando con su cuenta institucional correcta y, si persiste, levantar un ticket en promesa. Adicionalmente, se solicitan indicaciones para resolver el problema de acceso.",Soporte,ASESOR,solucion
+"Un asesor eliminó un registro en Actividad Pro y al intentar capturarlo nuevamente aparece que la CURP ya es cliente Profuturo, pero en traspasos Pro si permite el acceso.",El acceso a Power Apps fue solucionado. El acceso a Actividad Pro debe solicitarse a través de un ticket con la OAU desde la página de Promesa.,Soporte,TICKET OAU,solucion
+Un asesor específico (162968) reporta que sigue sin tener acceso al sistema a pesar de las validaciones.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+Un asesor no puede acceder a la aplicación CONSULTAPP en Powerapps.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Un asesor no puede ingresar a Actividad Pro en un dispositivo IOS.,Se solicita la desloquear la cuenta por el enlacede o enviar ticket a la OAU.,Soporte,TICKET OAU,solucion
+"Un asesor no tiene acceso a Actividad Pro, indicando error de usuario y contraseña a pesar de tener acceso a Okta.","Se debe validar con la OAU, ya que son los encargados de los accesos. Como recomendación, se puede intentar cambiar la contraseña desde Okta con la estructura correcta.",Soporte,CONTRASEÑA,solucion
+Un asesor no tiene acceso a la plataforma.,"Si el acceso es para la aplicación de Actividad PRO, levanta un ticket con OAU solicitando el alta.",Soporte,TICKET OAU,solucion
+Un asesor previsional no tiene acceso a las apps de Power Apps y le aparece el catálogo vacío.,"Para agilizar la solicitud, comparte la siguiente información de tu asesor:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Un asesor recién acreditado no tiene accesos al sistema. ¿Qué información se requiere para solucionar este problema?,Se debe mandar un ticket a la OAU solicitando el alta para que puedan brindar el acceso a la herramienta.,Soporte,TICKET OAU,solucion
+Un asesor tiene su cuenta bloqueada en Actividad Pro y no puede desbloquearla con el enlace proporcionado.,"Para problemas de acceso y desbloqueo de cuenta que no se resuelven con el enlace, es necesario levantar un ticket con la OAU.",Soporte,TICKET OAU,solucion
+Un colaborador recién certificado no puede acceder al sistema a pesar de haber cambiado su contraseña y haber intentado el proceso de desbloqueo.,"Se debe validar con la OAU, ya que son los encargados de los accesos. Como recomendación, se puede intentar cambiar la contraseña desde Okta con la estructura correcta.",Soporte,TICKET OAU,solucion
+Un usuario solicita la validación y el otorgamiento de acceso al sistema para un segundo asesor,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+"Una AP recién certificada no puede ingresar a Actividad Pro para agendar citas y enviar EDR, a pesar de haberlo hecho previamente.","Si no puedes ingresar a Actividad Pro, compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket",Soporte,CONTRASEÑA,solucion
+Una asesora está bloqueada fuera de su cuenta y necesita un cambio de contraseña urgentemente porque tiene un cliente.,recordemos que la OAU atiende todo caso de acceso y puede demorar maximo 48hrs habiles en atenderlos.,Soporte,TICKET OAU,solucion
+Una asesora no puede acceder a Actividad PRO por un error en su usuario y/o contraseña.,"Se recomienda cambiar la contraseña desde OKTA con la estructura correspondiente. Si el problema persiste, se debe levantar un ticket a la OAU.",Soporte,CONTRASEÑA,solucion
+"Una asesora no puede acceder a Actividad Pro para enviar EDR con su contraseña, aunque sí puede acceder a Traspasos Pro.",Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,ASESOR,solucion
+Usuario requiere acceso al número 194906 al plan de gestión.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Usuario solicita acceso a la aplicación NRP en Power Apps para consulta de empresas.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Validación de acceso para un grupo de usuarios donde uno reportaba falta de permisos.,"Para que los analistas de calidad certificados puedan obtener acceso a la herramienta Actividad Pro, se debe levantar un ticket con la AOU solicitando dicho acceso.",Soporte,TICKET OAU,solucion
+Validar acceso a aplicaciones después de haber realizado cambios.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Validar acceso del usuario a la plataforma de actividad PRO.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Validar el acceso a la tarjeta digital de varios asesores que no lo tienen.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+Validar que los asesores tengan acceso a las herramientas de power apps y se encuentren en la sección de todas las aplicaciones.,Es necesario borrar caché del navegador e ingresar nuevamente al sistema.,Soporte,BORRAR CACHÉ,solucion
+Validar que los usuarios especificados ya tengan acceso a la plataforma de Actividad PRO por recien certificacion.,"Las altas son realizadas por la OAU de forma masiva. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",Soporte,TICKET OAU,solucion
+Validar que se ha otorgado acceso.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Validar si el usuario tiene acceso a Actividad PRO,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Validar si el usuario tiene acceso a la plataforma.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",Soporte,ALTA,solucion
+Validar si el usuario tiene acceso a las aplicaciones después de una posible actualización.,Recordemos que todo tema de acceso es atendido unicamente por la OAU a traves de un ticket por la plataforma de promesa,Soporte,TICKET OAU,solucion
+Validar si el usuario tiene acceso al sistema de Actividad PRO.,"Las altas son realizadas por la OAU de forma masiva para los casos de recien certificados. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",Soporte,TICKET OAU,solucion
+Validar si el usuario tiene acceso al sistema.,"Las altas son realizadas por la OAU de forma masiva para los casos de recien certificados. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",Soporte,TICKET OAU,solucion
+Validar si se ha otorgado acceso a un usuario para planes de gestion.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,TICKET OAU,asesor
+Validar si un usuario ya tiene acceso a un sistema o recurso.,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,ALTA,solucion
+"Varios usuarios no pueden acceder a la aplicación, recibiendo un mensaje de error de contraseña o usuario incorrecto.","Se debe validar que la contraseña cuente con la estructura compartida por la OAU, se recomienda cambiar la misma desde OKTA, en caso de no solucionarse, debe compartirce un ticket con la OAU",Soporte,TICKET OAU,solucion
+no puede ingresar el asesor por problemas de contraseña contraseña par.,Validar estructura de la contraseña,Soporte,TICKET OAU,solucion
+se solicita el acceso a consultApp,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ASESOR,asesor
+solicitan validar que los usuarios tengan acceso al sistema por recien certificacion.,"Las altas recien certificadas son realizadas por la OAU de forma masiva. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",Soporte,TICKET OAU,solucion
+solicitud de acceso a la plataforma de Actividad PRO,"Las altas son realizadas por la OAU de forma masiva para los casos de recien certificados. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",Soporte,TICKET OAU,solucion
+solicitud de acceso a plan de gestion.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,ALTA,asesor
+solicitud de acceso a tarjeta digital.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",Soporte,TICKET OAU,asesor
+solicitud de alta a una herramienta comercial en especifico,Recordemos que todo tema de acceso es atendido unicamente por la OAU a traves de un ticket por la plataforma de promesa,Nómina,TICKET OAU,solucion
+¿Cuál es el procedimiento para obtener acceso a la actividad pro?,El usuario debe levantar un ticket en Promesa a la OAU,Soporte,TICKET OAU,solucion
+¿Cuál es el procedimiento para solucionar problemas de accesos en Actividad Pro y Enlace?,Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,Soporte,TICKET OAU,solucion
+¿Cuál es el proceso para obtener acceso a la plataforma Actividad Pro?,se debe compartir un ticket con la OAU para su validación,Soporte,TICKET OAU,solucion
+¿Cuándo estarán disponibles los accesos para los analistas en Actividad Pro y Traspasos?,"Para la solicitud de accesos, es necesario validar con el equipo de AFORE a través de su canal oficial de soporte ""Enlace Asesoría T"", ya que el control del proceso de altas lo lleva la OAU.",Soporte,ESCALAR EQUIPO AFORE (ENLACE ASESORÍA),solucion
+¿Cuánto tiempo debo esperar para que se resuelva un ticket?,recordemos que la OAU atiende todo caso de acceso y puede demorar maximo 48hrs habiles en atenderlos.,Soporte,TICKET OAU,solucion
+¿Cómo pueden los analistas de calidad certificados obtener acceso a la herramienta Actividad Pro?,El usuario debe levantar un ticket en Promesa a la OAU,Soporte,TICKET OAU,solucion
+"Solicito su apoyo para mi vista en actividad pro ya que solo tengo vista de asesor hemos levantado ticket anteriormente sin embargo nos dijeron que en este chat es donde solicitaba el acceso como gerente, comparto el ticket levantado.","se configura perfil, favor de validar, Se sugiere validar con equipo de soporte debido a que usuario cuenta con el perfil correctamente cargado. ",Soporte,TICKET OAU,solucion

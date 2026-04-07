@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chat RAG Helpdesk</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fcf6bd;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .chat-container {
+      width: 500px;
+      height: 650px;
+      background: #70d6ff;
+      border-radius: 8px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .messages {
+      flex: 1;
+      overflow-y: auto;
+      margin-bottom: 10px;
+      padding-right: 5px;
+    }
+
+    .msg {
+      margin: 6px 0;
+      white-space: pre-wrap;
+    }
+
+    .user {
+      text-align: right;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .bot {
+      text-align: left;
+      color: #0b5ed7;
+    }
+
+    .controls {
+      display: flex;
+      gap: 5px;
+    }
+
+    input[type="text"] {
+      flex: 1;
+    }
+
+    
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .session-box {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 12px;
+    }
+
+    .session-box input {
+        width: 180px;
+        font-size: 11px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<div class="chat-container">
+  
+<div class="header">
+  <h3>RAG Helpdesk</h3>
+
+  <div class="session-box">
+    <label for="sessionInput">session_id:</label>
+    <input type="text" id="sessionInput" />
+  </div>
+</div>
+
+
+  <div id="messages" class="messages"></div>
+
+  <div class="controls">
+    <input type="text" id="textInput" placeholder="Escribe tu mensaje..." />
+    <button onclick="sendMessage()">Enviar</button>
+    <button onclick="resetChat()">Reset</button>
+  </div>
+</div>
+
+<script>
+  const API_BASE = "http://localhost:8000";
+  
+const sessionInput = document.getElementById("sessionInput");
+// generar session_id inicial
+sessionInput.value = crypto.randomUUID();
+
+
+  const messagesDiv = document.getElementById("messages");
+  const textInput = document.getElementById("textInput");
+
+  function addMessage(text, sender) {
+    const div = document.createElement("div");
+    div.className = `msg ${sender}`;
+    div.textContent = text;
+    messagesDiv.appendChild(div);
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    return div;
+  }
+
+  async function sendMessage() {
+    if (!textInput.value.trim()) return;
+
+    // Mostrar mensaje del usuario
+    addMessage(textInput.value, "user");
+
+    // Crear mensaje del bot vacío
+    const botDiv = addMessage("", "bot");
+
+    const formData = new FormData();
+    formData.append("session_id", sessionInput.valu);
+    formData.append("message", textInput.value);
+
+    textInput.value = "";
+
+    const response = await fetch(`${API_BASE}/chat`, {
+      method: "POST",
+      body: formData
+    });
+
+    if (!response.body) {
+      botDiv.textContent = "Error: sin respuesta del servidor";
+      return;
+    }
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder("utf-8");
+
+    while (true) {
+      const { value, done } = await reader.read();
+      if (done) break;
+
+      const chunk = decoder.decode(value, { stream: true });
+      botDiv.textContent += chunk;
+      messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    }
+  }
+
+  async function resetChat() {
+    await fetch(`${API_BASE}/reset`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ session_id: sessionInput.value})
+    });
+
+    messagesDiv.innerHTML = "";
+    addMessage("✅ Memoria reiniciada", "bot");
+  }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+.env.*
+
+# Node / frontend
+node_modules/
+
+# Data / binaries
+*.db
+*.bin
+*.log
+
+# Images grandes
+*.jpg
+*.png
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
+``
