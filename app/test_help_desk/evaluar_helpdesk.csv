@@ -1,0 +1,143 @@
+question,expectedResponse,actualResponse
+El usuario reportó problemas de visibilidad de datos como duplicidad o casos no visualizados.,"Si presentas duplicidad o no visualizas algunos casos, borra el caché de la aplicación, actualiza la sección realizando scroll en la pantalla, reinicia la sesión y vuelve a ingresar. No es necesario desinstalar la app.",
+"La usuaria reporta que no recibe el token de acceso, ni por mensaje de texto ni a través de correo electrónico.","se sugiere que el problema puede ser del proveedor telefónico, recomendando el envío de tokens vía correo electrónico",
+"Varios usuarios reportan que no pueden ingresar al sistema, confirmando que el problema persiste a pesar de intentar el acceso en diferentes dispositivos.",No aplica,
+"Se bloqueó la contraseña de la landing page, ¿existe otra forma de evitar parar la producción mientras se resuelve el ticket?","Si la cuenta del asesor está bloqueada, se puede desbloquear rápidamente el usuario desde el portal de OKTA a través del enlace proporcionado, lo que permitirá continuar con la actividad sin interrupciones.",
+El cliente no recibe el token de actividad pro.,"El problema podría estar en los servicios de la compañía celular. Recordemos que contamos con un segundo medio de envio, nos apoyarias en realizar el envio del token por correo electronico.",
+"El usuario tiene problemas para enviar el EDR, el cual se queda en estado 'consultado' y arroja un error.","Si el EDR se queda en estado 'consultado' y muestra error, puede deberse a la intensidad de la red o a la ubicación desde donde te conectas. Te sugerimos reenviar el EDR validando que cuentes con una conexión estable y buena señal.",
+El usuario no puede realizar un estudio para el retiro porque el sistema no permite avanzar el trámite y solicita barrer el mismo.,"es importante considerar que por normativa no es posible eliminar un trámite ya capturado. Te sugerimos utilizar el filtro avanzado en los distintos módulos para localizar el caso; si se requiere reiniciar el trámite, será indispensable canalizarlo a través del canal de Enlace Asesoría para su validación y apoyo.",
+El usuario no puede enviar EDR debido a un cierre de sesión y problemas de señal.,"Si no puedes enviar el EDR debido a un cierre de sesión o problemas de señal, inicia sesión nuevamente y valida que cuentes con una conexión estable antes de reintentar el envío.",
+Una usuaria no puede sincronizar Apovol y recibe un error.,"Al momento de sincronizar, ¿se muestra algún mensaje de error en la aplicación? Compártenos el detalle para poder continuidad y escalar el caso.",
+"No se puede registrar un monto de 50 pesos para analistas recién certificados en Actividad Pro, ya que el sistema pide un monto mínimo de 100 pesos.","Si se registra en el módulo de prospectos, capturar el monto mínimo de 100 pesos aunque sea de 50.
+Solo en el caso que sea un cliente, capturalo en el modulo cliente e ingresa la cantidad de 50",
+"El usuario reporta problemas de acceso a pesar de las validaciones iniciales, posiblemente relacionados con la red.",Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,
+Se requiere validar el acceso de los asesores y que este ya esté habilitado.,Recordemos que todo tema de acceso es atendido unicamente por la OAU a traves de un ticket por la plataforma de promesa,
+solicitud de alta de usuarios para que tengan acceso al plan de gestion.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+El usuario solicita estatus de su acceso.,recordemos que la OAU atiende todo caso de acceso y puede demorar maximo 48hrs habiles en atenderlos.,
+¿Quién es el encargado de gestionar el alta para la aplicación Actividad PRO?,La OAU a traves de un ticket por el portal promesa,
+Alta en el plan de Gestión.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+Se reporta que no se ha reflejado el alta de varias personas en el sistema.,"Las altas son realizadas por la OAU de forma masiva. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",
+Se solicitó alta de usuario para Consultapp,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+El usuario requería que se le concediera acceso a ciertas aplicaciones (apps).,te comento que todo tema de acceso es realizado por la OAU a través de un ticket compartido por el canal de promesa.,
+El usuario solicita validación de acceso a la plataforma.,compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,
+"El usuario  experimenta problemas para acceder a la plataforma, recibiendo un mensaje de que ya es cliente.",captura el trámite desde el módulo de clientes. Recordemos que el deber ser es capturar primero en actividad pro antes de realizar el tramite,
+Se necesita el acceso a TD .,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+El usuario no puede acceder a una aplicación específica y necesita validar si el acceso ha sido restablecido después de una posible corrección.,compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,
+Se solicita alta de los asesores para PDG,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+El usuario necesita que se valide si ya tiene acceso a un sistema o recurso.,"Las altas son realizadas por la OAU de forma masiva. Si el alta no se refleja en los próximos días, se deberá enviar un ticket a través de la plataforma Promesa.",
+Se solicita alta para la TD,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+Se necesita validar si el usuario ya tiene acceso a la plataforma.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+El usuario solicita validación de acceso a la plataforma solicitada.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+Validar si el usuario tiene acceso.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+El usuario solicita el alta a la herramienta de consultas de NRP,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+El usuario solicita validar si ya tiene acceso al sistema.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+El usuario solicita la confirmacion de alta otorgada a la herramienta de Actividad PRO.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+El usuario reportó un problema de acceso,compártenos el mensaje de error que se muestra para poder sugerirte acciones inmediatas. Recordemos que todo tema de Acceso es atendido por la OAU por medio de un ticket,
+¿Qué pasos deben seguir los usuarios para confirmar el restablecimiento de su acceso en las herramientas de Teams?,"Por favor, pide a tus asesores que borren caché e ingresen nuevamente.",
+"El usuario presentó un problema de acceso o visualización en el sistema, posiblemente debido a una inestabilidad en la conexión de red.",Valida que la zona donde se encuentre tenga la red de internet suficiente en su dispositivo.,
+El usuario tuvo un problema de acceso que requirió soporte para la validación de sus credenciales.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+¿Cuál es el proceso correcto para solicitar los accesos a la actividad Pro?,se debe compartir un ticket con la OAU para su validación,
+¿Cómo se valida o restablece el acceso de un asesor al sistema?,"Los accesos para 'Actividad Pro' se solicitan mediante la creación de un ticket desde la plataforma 'promesa', el cual debe ser dirigido a la AOU (OAU).",
+Se solicitó apoyo para validar que un usuario tuviera acceso a plan de gestion.,El usuario debe borrar el caché del navegador e ingresar nuevamente al sistema para que se habiliten las funciones de captura.,
+Se requiere validar si los usuarios ya tienen acceso al sistema.,"El tema de accesos se gestiona por medio de la OAU, levantando un ticket desde la plataforma promesa.",
+El usuario solicitó la validación o restablecimiento de su acceso al sistema.,"Para gestionar el alta de usuario en la aplicación Actividad PRO, por favor, envía un ticket desde el portal Promesa a la OAU. Asegúrate de incluir el nombre del usuario y describir claramente el problema que estás experimentando. Si requieres un alta diferente favor de incluir el nombre de la aplicación",
+El usuario presenta problemas para capturar información dentro de la aplicación móvil Actividad Pro.,No aplica,
+¿Cuál es el procedimiento para obtener los accesos necesarios para la Actividad Pro?,"Los accesos para Actividad Pro se obtienen solicitando un ticket con la OUA, el cual debe ser generado desde la plataforma Promesa.",
+¿Cómo se solicita o verifica el acceso para nuevos asesores al sistema mediante la validación de sus fechas de alta?,"Los accesos para Actividad Pro se obtienen solicitando un ticket con la OUA, el cual debe ser generado desde la plataforma Promesa.",
+El usuario no puede cerrar un trámite en Actividad Pro.,"Para cerrar el trámite, verifica que el origen de la cita sea el correcto según el tipo de gestión. Si el origen no coincide con el procedimiento actual, el sistema no permitirá el cierre; ajústalo e intenta finalizar nuevamente.",
+El usuario encuentra un problema o error al intentar validar la CURP durante la realización de un estudio.,"Verifica que la CURP esté correctamente Estructurada e inténtalo de nuevo.
+Si el error persiste compartenos la CURP para su pronta validación",
+El usuario no puede enviar EDR en Actividad Pro.,"Para solucionar el envío de EDR, verifica que el correo del cliente no tenga espacios extra y asegúrate de tener al menos 3 barras de señal o conexión Wi-Fi estable. Si el error persiste, reinicia la app para refrescar la sesión.",
+El usuario no puede completar un EDR porque indica que la curp ya está capturada pero no la encuentra.,"Buscar la CURP en los tres módulos utilizando el filtro avanzado en cada uno de los modulos, (contacto, Cita, Cierre)",
+"Se presenta un error en Actividad Pro, generando intermitencia al intentar generar un token.","Se sugiere verificar la conexión a red o intentar desde una ubicación con mejor señal. Como alternativa inmediata, recuerda que puedes realizar el envío del token a través de correo electrónico para continuar con tu proceso.",
+Se presenta un error al generar el token para acceder a Actividad Pro y realizar el EDR.,"Si tienes problemas al generar el token, verifica tu conexión a red o intenta desde otra ubicación con mejor señal. Como alternativa inmediata, puedes solicitar el envío del token por correo electrónico para continuar con tu proceso.",
+Requiero solicitud para cargar la aplicación de consulta de protocolo para varios asesores.,"Para poder ayudarte, necesitamos la siguiente información de cada asesor que requiere acceso:
+1.- Número de empleado
+2.- Nombre
+3.- Correo electrónico
+4.- Centro de costos
+5.- Número CONSAR (si aplica)",
+¿Puede ayudarme con acceso a Enlace Pro?,"Se solicita compartir el caso por el canal adecuado ""Enlace Asesoria""",
+El usuario solicita asistencia para compartir un conjunto de solicitudes pendientes en el canal de comunicación interno 'chat de enlace T'.,"se debe comaprtir la consuta al canal  ""Enlace Asesoria""",
+Se requiere acceso a la app de Traspasos PRO,Se solicita que envíe su caso al canal de enlace de asesoría correspondiente.,
+El asesor 073731 no puede realizar el envío de EDR en Actividad Pro.,"Al intentar enviar el EDR en Actividad Pro, ¿qué mensaje de error se muestra en pantalla? Compártenos el detalle para poder orientarte con acciones específicas.",
+El usuario no puede enviar EDR.,El error puede ser causado por fallos en la red (celular o corporativa) o por un dato erróneo en el correo electrónico ingresado; se solicitó validar la estructura correcta del correo.,
+El archivo de estudio se encuentra dañado y no se puede enviar.,"validar correo electronico del cliente, que no contenga algun espacio al principio o final del mismo",
+El estatus de un trámite en Actividad Pro no aparece y no permite ingresar el Apovol realizado.,"Se debe esperar a que la información se refleje en el sistema, ya que los servicios no actualizan los estatus al instante; se recomienda sincronizar el aplicativo transcurrido un tiempo.",
+"Los usuarios no pueden cerrar trámites de registro o asesoría digital móvil debido a que la información del registro aún no se ve reflejada, impidiendo el cierre.","Se debe esperar a que la información del registro se refleje, lo cual ocurre los días hábiles después de la 1 PM.Es importante también validar que el cliente no haya cancelado el trámite.",
+"No se puede enviar el aviso de privacidad por SMS, aunque el número es correcto y marca error.",Se solicitó al cliente implementar el protocolo de intermitencia (reiniciar el dispositivo o colocarlo en modo avión) Recordemos que si no es posible enviar el SMS se puede enviarl el token por email.,
+Cambié la contraseña pero no me permite el acceso,"Verificar si la nueva contraseña cumple con la estructura especificada en el comunicado; de no ser así, actualizarla. Si persiste el problema, escalar a la OAU.",
+"Usuarios reportan intermitencia en la recepción de tokens de 6 dígitos por SMS y correo, así como retrasos en la entrega de folios en PRODUCE y Profuturo Móvil/Afore móvil.",se solicita realizar el envio mediante el correo electronico,
+No se están recibiendo EDR para tres casos específicos (CURPs proporcionados).,"Se sugiere reiniciar la sesión y verificar que el correo electrónico del cliente no tenga errores (ej. espacios). Si el problema persiste, compartir un video del error.",
+El usuario no puede realizar el EDR.,"Si no puedes realizar el EDR, valida que cuentes con una conexión a internet estable y que el correo del cliente esté correctamente capturado y sin espacios. Una vez revisado, reintenta el proceso.",
+"Una asesora no puede acceder a Actividad PRO a pesar de haber cambiado la contraseña recientemente, la cual funciona en Traspasos Pro.","Se solicita validar si el correo electrónico del cliente tiene alguna anomalía, como espacios al inicio o al final, o errores de escritura.",
+"Una asesora no puede acceder a Actividad PRO a pesar de haber cambiado la contraseña recientemente, la cual funciona en Traspasos Pro.","Verificar si la nueva contraseña cumple con la estructura especificada en el comunicado; de no ser así, actualizarla. Si persiste el problema, escalar a la OAU.",
+"El token no le llega a un cliente con CURPXXXXXXXXXXXXXX, ya fue enviado por correo y celular.","recordemos que contamos con dos canales de envio de token , apoyame en realizar el envio por EMAIL",
+La app de Enlace Pro no permite el ingreso ni al usuario ni a sus asesores.,"se debe compartir el caso al canal de ""Enlace Asesoria""",
+El usuario solicita el reenvío de un video en un formato accesible.,Contactar al equipo de Competitividad Afore a través de su canal de soporte ENLACE ASESORIA.,
+Varios registros enviados por Profuturo Móvil no permiten generar el cierre.,Se indica al usuario que el tema de Afore debe tratarse a través de los canales de Enlace.,
+El usuario no puede hacer cierre porque no identifica el trámite en Actividad Pro debido a un problema con el CURP.,No aplica,
+El asesor no puede enviar EDR.,"Al intentar enviar el EDR, ¿qué mensaje de error se muestra en pantalla? Compártenos el detalle para poder orientarte con acciones específicas.",
+"no hay problema si le ponemos en APOVOL la cantidad de 100 aunque haya sido de 50, es un prospecto","El monto del APOVOL debe coincidir con la cantidad real de la operación. Valida que el importe capturado sea correcto y cumpla con las reglas de registro antes de continuar, actualmente solo es posible capturar una suma de 50 en el modulo de clientes.",
+el prospecto ya es cliente profuturo y no permite registrar su Apovol,"Si el prospecto ya es cliente Profuturo, el APOVOL debe gestionarse desde el módulo de Clientes. Valida el registro desde ese apartado para continuar.",
+"Tuvimos una cancelación de apovol por intentos , como lo identificamos en la app ?",Revisa el estatus del APOVOL desde el módulo correspondiente dando click en el boton de apovol correspondiente a tu cliente.,
+no se están actualizando el icono de apovol en actividad pro,"Valida que el registro esté correctamente guardado y sincroniza la aplicación. Revisa que el apartado de APOVOL se sincronice de manera correcta, en caso de mostrar un error, favor de notificarlo",
+"No nos aparece estatus de apovol en actividad pro, Ya actualizamos y nos marca todo en gris","Si el estatus aparece en gris, valida que el proceso esté completo y que el cierre previo exista.",
+tenemos varios casos de apovol en actividad pro que semanas anteriores ya nos aparecían como REGISTRADAS y ahorita nos aparece el círculo en gris,"Recordemos que toda venta de apovol debe ser registrada de manera manual, de lo contrario el indicador de APOVOL no cambiara de color",
+No nos deja enviar de cita a cierre un registro que fue hecho por produce,Verifica que el registro cuente con el origen correcto y que sea compatible con el flujo de cierre antes de intentar el cierre total de la cita registrada,
+"No podemos cerrar una cita, el origen es el correcto","Si el origen de la cita es correcto y aun así no permite el cierre, apóyanos compartiendo el ID de la cita, el estatus actual, el módulo desde el que intentas cerrar y el mensaje de error que se muestra, si aplica. Con esta información se podrá canalizar el caso para atención especializada.",
+"Tengo un caso desde ayer que no nos deja cerrar el trámite, se realizó Móvil, y la captura de la cita es correcta, como Registro y Asesoría Digital.","Comparte los siguientes datos: 
+- ID de la cita
+- Estatus actual
+- Módulo desde el cual se intenta cerrar
+- Mensaje de error que se muestra (si aplica)",
+"he hecho trámites con mi asesores pero en actividad  pro no me deja cerrar la cita, me aparece que no hay trámite identificado","Si al intentar cerrar la cita aparece el mensaje 'no hay trámite identificado', puede tratarse de un desfase en la sincronización de la información. Te sugerimos sincronizar la aplicación y volver a intentar el cierre más tarde o al día siguiente después de la 1:00 p. m.",
+"saben porque un tramite que en el reporte de estadistica ya aparece como certificado, no se puede pasar de citas a cierre","valida que el origen de la cita sea el correcto y que el flujo esté completo. Considera que el reporte y Actividad Pro son herramientas independientes, por lo que en algunos casos la información puede tardar en verse reflejada antes de permitir el cierre.",
+"Sí se asigna una nueva fecha de cierre cuando la cita se vuelve a cerrar, la fecha actual se sustituye?","No se sustituye la fecha de cierre anterior. Al volver a cerrar la cita se genera un nuevo registro, y es esa nueva fecha la que se toma para continuar el flujo dentro de la aplicación.",
+"al momento de realizar la cita, la app no identifica el codigo postal, me podrian apoyar.","Si al capturar la cita la app no identifica el código postal, valida que esté escrito correctamente (5 dígitos, sin espacios) y que corresponda al estado/municipio seleccionado",
+"mis asesores nocturnos reportan error al enviar token, tenemos intermitencia, podemos continuar con el proceso ?",Por el momento no es posible confirmar una intermitencia; te sugerimos validar los datos de contacto y probar el canal alterno de envío del token para no detener el flujo. Cualquier definición adicional se comunicará por los canales oficiales en cuanto se tenga información.,
+"amigos me reportan otra vez intermitencia tengo tres asesores de nuevo detenidos, nos pueden ayudar por favor","Por el momento no es posible confirmar una intermitencia. Te sugerimos validar que los asesores cuenten con una conexión a internet estable, revisar el paso específico donde se detiene el flujo y reintentar la operación",
+"Buenas tardes amigos, han reportado alguna intermitencia de nuevo?","Por el momento no se tiene un reporte confirmado de intermitencia. Si se presenta algún inconveniente, valida la conexión y el proceso específico que se está realizando.",
+El usuario no puede acceder al sistema y reporta una incidencia con el número de solicitud,"Para descartar inconvenientes de conexión, verifica que estés accediendo desde una red estable (preferentemente Wi-Fi), ya que el uso de datos móviles puede generar fallas de acceso.",
+El usuario no puede cerrar citas y pregunta si hay una incidencia.,"se solicita validar que el origen de la cita sea el adecuado, se validaran los servicios",
+Existe una incidencia en el servicio de correo electrónico que impide el envío de EDR y el cierre en Actividad PRO.,"Si presentas dificultades para enviar el EDR o cerrar el trámite, valida que el correo electrónico esté correctamente capturado y que cuentes con una conexión a internet estable. Reintenta la operación después de unos minutos, ya que este comportamiento puede estar relacionado con la red o la sincronización.",
+La cerradora no puede enviar EDR (Error al enviar EDR).,"Si presentas dificultades para enviar el EDR o cerrar el trámite, valida que el correo electrónico esté correctamente capturado y que cuentes con una conexión a internet estable. Reintenta la operación después de unos minutos, ya que este comportamiento puede estar relacionado con la red o la sincronización.",
+la aplicación se queda cargando al momento de ingresar.,"Valida la estabilidad de tu red, version actual,  borra datos y cache de la misma, una vez realizado este proceso puedes reintentar el acceso a la misma.",
+Se muestra un mensaje de error al momento de colocar el numero de contacto del cliente.,Valida tu conexión a internet y reintenta la acción después de unos minutos.,
+La intermitencia reportada tambien aplica para traspasos pro?,"La intermitencia reportada no puede confirmarse para Traspasos Pro, ya que es una aplicación distinta. Para validar su impacto, el caso debe revisarse a través del canal correspondiente",
+"Estamos batallando con la actividad comercial, saben si hay intermitencia","Por el momento no se tiene un reporte confirmado de intermitencia. Te sugerimos validar la conexión a internet, identificar en qué paso específico del proceso se presenta el inconveniente y reintentar",

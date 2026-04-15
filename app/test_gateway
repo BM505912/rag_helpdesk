@@ -1,0 +1,23 @@
+import requests
+
+GW = "https://ca-sandbox-gateway-llm-eastus.proudtree-e258edc9.eastus.azurecontainerapps.io"
+KEY = "gw_WEMnMqDg_-fsk22kE-GGYdpW0DgUJmBgTfSFeMvmx"
+
+headers = {
+    "X-Gateway-API-Key": KEY,
+    "Content-Type": "application/json"
+}
+
+resp = requests.post(
+    f"{GW}/v1/embeddings",
+    headers=headers,
+    json={
+        "model": "text-embedding-3-large",
+        "input": "Texto de prueba",
+        "dimensions": 512
+    },
+    timeout=30
+)
+
+print(resp.status_code)
+print(len(resp.json()["data"][0]["embedding"]))
